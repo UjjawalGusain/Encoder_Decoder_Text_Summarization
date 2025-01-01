@@ -58,7 +58,9 @@ The model follows an Encoder-Decoder architecture using LSTM (Long Short-Term Me
 - Similar to the encoder, the decoder also uses LSTM layers, taking the context vector and a previous word (during training) to predict the next word in the summary.
 - The decoder ends with a softmax layer to output probabilities for each word in the vocabulary.
 
-Image: 
+Architecture Diagram:
+![encoder-decoder_2 drawio](https://github.com/user-attachments/assets/65fb2000-cea9-49fa-824a-140619f24866)
+
 
 
 ## Acknowledgement
