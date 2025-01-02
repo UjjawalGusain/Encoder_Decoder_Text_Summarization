@@ -61,6 +61,10 @@ The model follows an Encoder-Decoder architecture using LSTM (Long Short-Term Me
 Architecture Diagram:
 ![encoder-decoder_2 drawio](https://github.com/user-attachments/assets/65fb2000-cea9-49fa-824a-140619f24866)
 
+Demo Video:
+
+https://github.com/user-attachments/assets/b35aac67-aadb-476b-acdb-c68051608000
+
 
 
 ## Acknowledgement
