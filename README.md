@@ -11,7 +11,7 @@ This project is a text summarization tool built entirely from scratch using an L
 - Usage
     - Training the Model
     - Generating Summaries
-- Model Details
+- Architecture
 - Limitations
 - License
 - Acknowledgements
@@ -65,7 +65,8 @@ Demo Video:
 
 https://github.com/user-attachments/assets/b35aac67-aadb-476b-acdb-c68051608000
 
-
+## Limitations
+Being infamous for their size, encoder-decoder models could not be trained on real data without resources beyond my reach. The results are constrained by available resources rather than the implementation itself.
 
 ## Acknowledgement
 `Programming isn't about what you know; it's about what you can figure out.` ~Chris Pine
