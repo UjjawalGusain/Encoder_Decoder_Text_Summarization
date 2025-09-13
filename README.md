@@ -1,5 +1,8 @@
 
 # LSTM-Based Encoder-Decoder Text Summarizer Built from Scratch
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/048a0fa0-1b1b-4742-941b-a15a39a23a4b" alt="unigit_src_image" width="512" height="512" />
+</div>
 
 This project is a text summarization tool built entirely from scratch using an LSTM-based encoder-decoder architecture. While it has been trained on a toy dataset and is limited in performance, it is correctly implemented and demonstrates the complete process of building a summarization model. The results are constrained by available resources rather than the implementation itself.
 
